@@ -1,0 +1,33 @@
+
+# 🌤️ Weather App
+
+This is a simple Weather App built using the OpenWeatherMap API.
+
+## Features
+- Get real-time weather by city name
+- Weather icon, temperature, humidity, and wind
+- Uses modern JavaScript: async/await, fetch API
+
+## How to Run
+1. Clone the repo
+2. Replace `'YOUR_API_KEY'` in `script.js`
+3. Open `index.html` in your browser
+
+## Technologies
+- HTML
+- CSS
+- JavaScript (Fetch API)
+
+
+
+
+
+
+
+🗂️ Folder Structure
+weather-app/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
